@@ -24,8 +24,8 @@ complaints over time.
 ## Key findings
 
 - The overall average rating was **4.62/5**.
-- The average fell from **4.84 in 2020–2022** to **4.45 in
-  2023–2026**.
+- The average fell from **4.84 in 2020-2022** to **4.45 in
+  2023-2026**.
 - Pricing and payment complaints became more prominent in later
   reviews.
 - The view and location remained consistent strengths.
